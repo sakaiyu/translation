@@ -1,6 +1,6 @@
 # 英訳してください
 1. バナナ
-banana
+bananas
 
 2. カフェイン
 caffeine
